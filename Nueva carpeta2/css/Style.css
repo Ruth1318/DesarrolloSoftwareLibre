@@ -1,0 +1,69 @@
+body{
+    background-color: pink;
+}
+
+
+section {
+
+    width: 1024px;
+    margin: 20px auto;
+   
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+   
+
+
+}
+
+div {
+
+    width: 1024px;
+    margin: 20px auto;
+    
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+   
+
+}
+
+
+footer {
+    width: 1024px;
+    margin: 20px auto;
+    
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+
+header {
+    width: 1024px;
+    margin: 0 auto;
+   
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.container {
+    /* Eliminamos el espacio entre los divs para evitar espacios no deseados */
+    font-size: 0;
+    
+  }
+  
+  .box {
+    display: inline-block;
+    width: 154px; /* Puedes ajustar el ancho según tus necesidades */
+    height: 154px; /* Puedes ajustar la altura según tus necesidades */
+    background-color: #f0f0f0;
+    margin: 5px; /* Espacio entre los divs */
+    border: none;
+  }
+
+  .box img{
+    width: 150px; /* Puedes ajustar el ancho según tus necesidades */
+    height: 150px;
+  }
+  
