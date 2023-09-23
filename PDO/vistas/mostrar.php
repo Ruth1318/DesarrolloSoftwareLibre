@@ -60,7 +60,7 @@ if ($preparar->execute()) {
                         echo "<td>" . $row['nombre'] . "</td>";
                         echo "<td>" . $row['existencia'] . "</td>";
                         echo "<td>" . $row['fecharegistro'] . "</td>";
-                        echo "<td><img src='../imgServer/" . $row['imagen'] . "' alt='Imagen' width='100'></td>";
+                        echo "<td><img src='../imgServer/" . $row['imagen'] . "' alt='Imagen'></td>";
                         echo "<td>" . $row['precio'] . "</td>";
                         echo "</tr>";
                     }
